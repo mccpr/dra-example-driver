@@ -26,6 +26,7 @@ const (
 
 	GpuDeviceType     = "gpu"
 	UnknownDeviceType = "unknown"
+	
 
 	GpuClaimParametersKind = "GpuClaimParameters"
 )
