@@ -24,6 +24,7 @@ const (
 	GroupName = "gpu.resource.example.com"
 	Version   = "v1alpha1"
 
+	
 	GpuDeviceType     = "gpu"
 	UnknownDeviceType = "unknown"
 	
